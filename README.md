@@ -1,2 +1,2 @@
 # flowbite-skill
-A flowbite agent skill
+A skill that provides AI agents with documentation / examples for Flowbite components.
